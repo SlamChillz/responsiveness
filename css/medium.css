@@ -36,7 +36,7 @@ body {
 }
 
 .head {
-    background-image: url('/images/hero-bg.jpg');
+    background-image: url('../images/hero-bg.jpg');
     height: 500px;
     overflow: hidden;
     background-repeat: no-repeat;
@@ -178,10 +178,10 @@ body {
         background-position: center;
     }
     .reach-image1 {
-        background-image: url('/images/billionphotos1882993.jpg');
+        background-image: url('../images/billionphotos1882993.jpg');
     }
     .reach-image2 {
-        background-image: url('/images/billionphotos1883011.jpg');
+        background-image: url('../images/billionphotos1883011.jpg');
     }
     .reach-para {
         display: flex;
@@ -220,7 +220,7 @@ body {
     }
     .quality-image {
         height: 100%;
-        background-image: url("/images/billionphotos1079319min.png");
+        background-image: url("../images/billionphotos1079319min.png");
         overflow: hidden;
         background-repeat: no-repeat;
         background-size: cover;
@@ -307,13 +307,13 @@ body {
         background-position: center;
     }
     .service-icon1 {
-        background-image: url("/images/painting.svg");
+        background-image: url("../images/painting.svg");
     }
     .service-icon2 {
-        background-image: url("/images/electric.svg");
+        background-image: url("../images/electric.svg");
     }
     .service-icon3 {
-        background-image: url("/images/repair.svg");
+        background-image: url("../images/repair.svg");
     }
     .service-option h2 {
         font-size: 1.5rem;
@@ -386,16 +386,16 @@ body {
         background-position: center;
     }
     .about-images1 {
-        background-image: url("/images/frg.jpg");
+        background-image: url("../images/frg.jpg");
     }
     .about-images2 {
-        background-image: url("/images/rg.jpg");
+        background-image: url("../images/rg.jpg");
     }
     .about-images3 {
-        background-image: url("/images/billionphotos1882993.jpg");
+        background-image: url("../images/billionphotos1882993.jpg");
     }
     .about-images4 {
-        background-image: url("/images/billionphotos1882951.jpg");
+        background-image: url("../images/billionphotos1882951.jpg");
     }
     .contact {
         display: flex;
