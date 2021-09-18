@@ -630,7 +630,7 @@ body {
     }
     .about {
         margin-top: 1.5rem;
-        padding: 3rem 8rem;
+        padding: 3rem 5rem;
         display: flex;
         flex-direction: row;
         align-items: center;
@@ -669,6 +669,21 @@ body {
     }
     .service {
         padding: 1.5rem 6rem;
+    }
+    .about-images {
+        clear: both;
+        margin-top: 0rem;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+    }
+    .about-images div {
+        max-width: 49%;
+        height: 12rem;
+        overflow: hidden;
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
     }
 }
 
